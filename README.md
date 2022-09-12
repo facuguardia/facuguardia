@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Facu Guardia</h1>
-<h3 align="center">Junior frontend developer from Argentina</h3>
+<h3 align="center">Frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **React JS.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/facuguardia](https://github.com/facuguardia)
 
