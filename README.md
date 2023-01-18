@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/facuguardia](https://github.com/facuguardia)
 
-- 📫 How to reach me **contacto@facuguardia.com**
+- 📫 How to reach me **facuguar12@gmail.com**
 
 - 📄 Know about my experiences [https://facuguardia.github.io/#hero](https://facuguardia.github.io/#hero)
 
