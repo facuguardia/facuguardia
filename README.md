@@ -33,7 +33,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=facuguardia&show_icons=true&locale=en&layout=compact" alt="facuguardia" /> </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=facuguardia&show_icons=true&locale=es" alt="facuguardia" /> </p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=facuguardia&show_icons=true&locale=es" alt="facuguardia" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=facuguardia&" alt="facuguardia" /></p>
 
