@@ -1,10 +1,6 @@
 <h1 align="center">Hola 👋, soy Facundo Guardia</h1>
 <h3 align="center">Un apasionado desarrollador frontend de Argentina</h3>
 
-<p align="left"> <img src= "https://komarev.com/ghpvc/?username=facuguardia&label=Profile%20views&color=0e75b6&style=flat" alt="facuguardia" /> </p>
-
-<p align="left"> <a href="https: //github.com/ryo-ma/github-profile-trofeo"><img src="https://github-perfil-trofeo.vercel.app/?username=facuguardia" alt="facuguardia" /></ a> </p>
-
 - 🔭 Actualmente estoy trabajando en [App Fast Food](https://github.com/facuguardia/app-food)
 
 - 🌱 Actualmente estoy aprendiendo **TypeScript y su Ecosistema**
