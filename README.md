@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Facundo Guardia</h1>
+<h1 align="center">Hola 👋, soy Facundo</h1>
 <h3 align="center">Desarrollador Frontend de Argentina</h3>
 
 ###
@@ -7,7 +7,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **TypeScript y su Ecosistema**
 
-- 👯 Estoy buscando colaborar en **Estoy interesado en colaborar en proyectos que involucren el uso de React y que presentan desafíos interesantes.**
+- 👯 Estoy buscando colaborar en **proyectos que involucren el uso de React y que presenten desafíos interesantes.**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/facuguardia?tab=repositories](https://github.com/facuguardia?tab=repositories)
 
@@ -16,8 +16,6 @@
 - 📫 Cómo contactarme **facuguar12@gmail.com**
 
 - 📄 Conoce mis experiencias [https://facuguardia.netlify.app/](https://facuguardia.netlify.app/)
-
-- ⚡ Dato curioso **Alegre - Optimista - Divertido - Charlatán**
 
 <h3 alinear="izquierda">Idiomas y herramientas:</h3>
 
