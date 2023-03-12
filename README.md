@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente estoy trabajando en [App Fast Food](https://github.com/facuguardia/app-food)
 
-- 🌱 Estoy aprendiendo **TypeScript y su Ecosistema**
+- 🌱 Aprendiendo **TypeScript y su Ecosistema**
 
 - 👯 Busco colaborar en **proyectos que involucren el uso de React y que presenten desafíos interesantes.**
 
