@@ -9,11 +9,11 @@
 
 - 👯 Busco colaborar en **proyectos que involucren el uso de React y que presenten desafíos interesantes.**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/facuguardia?tab=repositories](https://github.com/facuguardia?tab=repositories)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://facuguardia.netlify.app/](https://facuguardia.netlify.app/)
 
 - 📫 Cómo contactarme **facuguar12@gmail.com**
 
-- 📄 Conoce mis experiencias [https://facuguardia.netlify.app/](https://facuguardia.netlify.app/)
+- 📄 Conoce mí experiencia [https://github.com/facuguardia?tab=repositories](https://github.com/facuguardia?tab=repositories)
 
 <h3 alinear="izquierda">Idiomas y herramientas:</h3>
 
