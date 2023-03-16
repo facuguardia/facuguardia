@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Facundo</h1>
-<h3 align="center">Desarrollador Frontend de Argentina</h3>
+<h3 align="center">Desarrollador Frontend</h3>
 
 ###
 
