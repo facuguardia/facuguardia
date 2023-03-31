@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Facu Guardia</h1>
-<h3 align="center">Desarrollador Frontend</h3>
+<h3 align="center">Developer Designer Frontend</h3>
 
 ###
 
