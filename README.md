@@ -3,12 +3,6 @@
 
 ###
 
-- 🔭 Actualmente estoy trabajando en [App Fast Food](https://github.com/facuguardia/app-food)
-
-- 🌱 Aprendiendo **TypeScript y su Ecosistema**
-
-- 👯 Busco colaborar en **proyectos que involucren el uso de React y que presenten desafíos interesantes.**
-
 - 👨‍💻 Todos mis proyectos están disponibles en [https://facuguardia.netlify.app/](https://facuguardia.netlify.app/)
 
 - 📫 Cómo contactarme **facuguar12@gmail.com**
