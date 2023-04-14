@@ -6,7 +6,7 @@
 <a href="https://twitter.com/facuguardia86" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="facuguardia86" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/facu-guardia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facu-guardia" height="30" width="40" /></a>
 <a href="https://www.behance.net/facuguardia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="facuguardia" height="30" width="40" /></a>
-<a href="https://facuguardia.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://facuguardia.netlify.app/" height="30" width="40" /></a>
+<a href="https://facuguardia.netlify.app/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://facuguardia.netlify.app/" height="30" width="40" /></a>
 </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=facuguardia" alt="facuguardia" /></a> </p>
