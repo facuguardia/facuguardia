@@ -9,7 +9,7 @@
 <a href="https://facuguardia.netlify.app/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://facuguardia.netlify.app/" height="30" width="40" /></a>
 </p>
 
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=facuguardia" alt="facuguardia" /></a> </p>
 
 #
 
@@ -23,8 +23,6 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=facuguardia&" alt="facuguardia" /></p><p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=facuguardia&show_icons=true&locale=en&layout=compact" alt="facuguardia" /></p>
 
-#
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=facuguardia" alt="facuguardia" /></a> </p>
 
 
