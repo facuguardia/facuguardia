@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Facu Guardia</h1>
-<h3 align="center">Developer Designer Frontend</h3>
-
+<h2 align="center">Developer Designer Frontend</h3>
 #
-
+<h3>
 💼 All of my projects are available at [**My Portfolio**](https://facuguardia.netlify.app/)
-
 📧 How to reach me **facuguar12@gmail.com**
-
+</h3>
 #
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/facuguardia86" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="facuguardia86" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/facu-guardia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facu-guardia" height="30" width="40" /></a>
 <a href="https://www.behance.net/facuguardia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="facuguardia" height="30" width="40" /></a>
@@ -18,7 +16,7 @@
 
 #
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=facuguardia" alt="facuguardia" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=facuguardia" alt="facuguardia" /></a> </p>
 
 #
 
