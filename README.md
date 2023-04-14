@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Facu Guardia</h1>
-<h2 align="center">Developer Designer Frontend</h3>
+<h2 align="center">Developer Designer Frontend</h2>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
