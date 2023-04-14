@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Facu Guardia</h1>
 <h2 align="center">Developer Designer Frontend</h3>
 #
-<h3>
+
 💼 All of my projects are available at [**My Portfolio**](https://facuguardia.netlify.app/)
 📧 How to reach me **facuguar12@gmail.com**
-</h3>
+
 #
 
 <h3 align="center">Connect with me:</h3>
