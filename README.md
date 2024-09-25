@@ -3,9 +3,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/facu-guardia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facu-guardia" height="50" width="50" /></a>{" "}
+<a href="https://linkedin.com/in/facu-guardia" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facu-guardia" height="50" width="50"/></a>
 
-<a href="https://www.facutech.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="www.facutech.com" height="50" width="50" /></a>
+<a href="https://www.facutech.com/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="www.facutech.com" height="50" width="50" padding-left="10px" /></a>
 </p>
 
 #
