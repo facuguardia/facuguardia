@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Facundo Guardia</h1>
-<h2 align="center">Developer Web & Mobile</h2>
+<h1 align="center">Facundo Guardia</h1>
+<h2 align="center">SSR Frontend Developer</h2>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
