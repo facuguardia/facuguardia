@@ -1,5 +1,5 @@
 <h1 align="center">Facundo Guardia</h1>
-<h2 align="center"> { Frontend Developer TS - JS }</h2>
+<h2 align="center">--- Frontend Developer TS - JS ---</h2>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
