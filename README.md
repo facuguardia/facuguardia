@@ -10,7 +10,7 @@
 const facuGuardia = {    
     askMeAbout: ["App Dev 📱", "Web Dev 💻", "Tech 🛠️", "Companies 🌍"],
     experience: {
-        years: 5,
+        years: 3,
         description: "Desarrollador Full Stack con experiencia en el desarrollo de aplicaciones y soluciones SaaS."
     },
     technologies: {
@@ -36,9 +36,8 @@ const facuGuardia = {
             experience: "Básico",
         }
     },
-    favorites: ["React.js", "Next.js", "Node.js", "Figma"], // Tus tecnologías preferidas
+    favorites: ["React.js", "Next.js", "Node.js", "Figma"],
 };
-
 }
 ```
 
