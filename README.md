@@ -1,4 +1,4 @@
-## ¡Hey 👋! I´m Rafa 👨🏻‍💻
+## ¡Hey 👋! I´m Facu 👨🏻‍💻
 <p align="center">
   
   <img src="https://github.com/ratasi/ratasi/blob/main/rafatarre.png" />
@@ -7,15 +7,17 @@
 
 
 ```js
-const tarredev = {    
-    askMeAbout: ["app dev", "web dev", "tech", "companies"],
+const facuGuardia = {    
+    askMeAbout: ["App Dev", "Web Dev", "Tech", "Companies"],
     technologies:{
-        backEnd: ["nodejs", "express"],
-        code: ["JavaScript", "Typescript", "React", "HTML", "CSS"],
-        tools: ["Node", "StoryBook", "Styled-Components", "Tailwind CSS" ],       
+        backEnd: ["Node.Js", "Express"],
+        code: ["JavaScript", "Typescript", "React.Js", "Next.Js", "React Native"],
+        tools: ["Figma", "StoryBook", "Tailwind CSS", "Shadcn UI","Gluestack UI" ],       
         misc: ["Firebase"],
-        cms: ["Prestashop", "Wordpress", "Joomla"]
+        cms: ["Strapi", "Wordpress", "Joomla"]
     }
 }
 ```
+
+by TarreDev
 
