@@ -1,6 +1,5 @@
 ## ¡Hey 👋! I´m Facu 👨🏻‍💻
-<p align="center">
-  
+<p align="center">  
   <img src="https://i.postimg.cc/cL4HcjmN/img-profile-github.png" />
 </p>
 
@@ -40,6 +39,4 @@ const facuGuardia = {
 };
 }
 ```
-
-by TarreDev
 
