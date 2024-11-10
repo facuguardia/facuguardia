@@ -1,6 +1,6 @@
 ## ¡Hey 👋! I´m Facu 👨🏻‍💻
 <p align="center">  
-  <img src="https://i.postimg.cc/cL4HcjmN/img-profile-github.png" />
+  <img src="https://i.postimg.cc/hGnnvXts/banner-profile-github.png" />
 </p>
 
 
