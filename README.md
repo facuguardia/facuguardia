@@ -1,7 +1,7 @@
 ## ¡Hey 👋! I´m Facu 👨🏻‍💻
 <p align="center">
   
-  <img src="https://github.com/ratasi/ratasi/blob/main/rafatarre.png" />
+  <img src="https://i.postimg.cc/cL4HcjmN/img-profile-github.png" />
 </p>
 
 
