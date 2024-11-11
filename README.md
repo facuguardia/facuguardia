@@ -9,7 +9,7 @@
 const FacuGuardia = {    
     askMeAbout: ["App Dev 📱", "Web Dev 💻", "Tech 🛠️", "Companies 🌍"],
     experience: {
-        years: 3,
+        years: 4,
         description: "Desarrollador Full Stack con experiencia en el desarrollo de aplicaciones y soluciones SaaS."
     },
     technologies: {
