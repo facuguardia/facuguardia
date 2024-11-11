@@ -6,7 +6,7 @@
 
 
 ```js
-const facuGuardia = {    
+const FacuGuardia = {    
     askMeAbout: ["App Dev 📱", "Web Dev 💻", "Tech 🛠️", "Companies 🌍"],
     experience: {
         years: 3,
