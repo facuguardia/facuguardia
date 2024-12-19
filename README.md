@@ -14,7 +14,7 @@ const FacuGuardia = {
     },
     technologies: {
         backEnd: {
-            stack: ["Node.js 🟢", "Express 🚀"],
+            stack: ["Node.js 🟢", "Express 🚀", "Nest.js"],
         },
         frontEnd: {
             code: ["JavaScript 🌐", "TypeScript 🔷", "React.js ⚛️", "Next.js 🖥️", "React Native 📱"],
@@ -24,7 +24,7 @@ const FacuGuardia = {
             styling: ["Tailwind CSS 🌈", "Shadcn UI 💎", "Gluestack UI 🔧"],
         },
         cms: {
-            platforms: ["Strapi 🎛️", "WordPress 🌐", "Joomla 🖥️"],
+            platforms: ["Strapi 🎛️", "WordPress 🌐"],
         },
         misc: {
             services: ["Firebase 🔥"],
