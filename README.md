@@ -1,6 +1,6 @@
 ## ¡Hey 👋! I´m Facu 👨🏻‍💻
 <p align="center">  
-  <img src="(https://i.postimg.cc/CLwRvbsZ/man-stares-intently-computer-screen-dark-night-copy-space.jpg)" />
+  <img src="https://i.postimg.cc/CLwRvbsZ/man-stares-intently-computer-screen-dark-night-copy-space.jpg" />
 </p>
 
 
