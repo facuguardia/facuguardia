@@ -1,6 +1,6 @@
 ## ¡Hey 👋! I´m Facu 👨🏻‍💻
 <p align="center">  
-  <img src="https://i.postimg.cc/hGnnvXts/banner-profile-github.png" />
+  <img src="(https://i.postimg.cc/CLwRvbsZ/man-stares-intently-computer-screen-dark-night-copy-space.jpg)" />
 </p>
 
 
@@ -17,7 +17,7 @@ const FacuGuardia = {
             stack: ["Node.js 🟢", "Express 🚀", "Nest.js"],
         },
         frontEnd: {
-            code: ["JavaScript 🌐", "TypeScript 🔷", "React.js ⚛️", "Next.js 🖥️", "React Native 📱"],
+            code: ["TypeScript 🔷", "React.js ⚛️", "Next.js 🖥️", "React Native 📱"],
         },
         tools: {
             design: ["Figma 🎨", "StoryBook 📚"],
@@ -27,10 +27,10 @@ const FacuGuardia = {
             platforms: ["Strapi 🎛️", "WordPress 🌐"],
         },
         misc: {
-            services: ["Firebase 🔥"],
+            services: ["Firebase 🔥", "Supabase 🕺"],
         }
     },
-    favorites: ["React.js", "Next.js", "Node.js", "Figma"],
+    favorites: ["Figma", "Next.js", "Tailwind CSS", "Shadcn UI", "Supabase", "Vercel"],
 };
 }
 ```
