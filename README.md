@@ -13,24 +13,28 @@ const FacuGuardia = {
         description: "Desarrollador Full Stack especializado en arquitectura Frontend y desarrollo de soluciones SaaS."
     },
     technologies: {
-        backEnd: {
-            stack: ["Node.js 🟢", "Express 🚀", "Nest.js"],
-        },
         frontEnd: {
-            code: ["TypeScript 🔷", "React.js ⚛️", "Next.js 🖥️", "React Native 📱"],
+            code: ["TypeScript", "React.js ", "Next.js"],
         },
-        tools: {
-            design: ["Figma 🎨", "StoryBook 📚"],
-            styling: ["Tailwind CSS 🌈", "Shadcn UI 💎", "Gluestack UI 🔧"],
+        backEnd: {
+            stack: ["Node.js", "Express", "Nest.js"],
+            database: ["PostgreSQL", "MongoDB"]
+        },
+        designer: {
+            design: ["Figma"],
+            styling: ["Tailwind CSS", "Shadcn UI", "Gluestack UI"],
         },
         cms: {
-            platforms: ["Strapi 🎛️", "WordPress 🌐"],
+            platforms: ["Strapi", "WordPress"],
         },
-        misc: {
-            services: ["Firebase 🔥", "Supabase 🕺"],
-        }
+        baas: {
+            services: ["Firebase", "Supabase"],
+        },
+        automation:{
+            tools: ["n8n", "Zapier", "Make"],
+        },
     },
-    favorites: ["Figma", "Next.js", "Tailwind CSS", "Shadcn UI", "Supabase", "Vercel"],
+    favorites: ["Figma", "Next.js", "Tailwind CSS", "Shadcn UI", "Supabase", "Vercel", "n8n"],
 };
 }
 ```
