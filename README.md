@@ -10,7 +10,7 @@ const FacuGuardia = {
     askMeAbout: ["App Dev 📱", "Web Dev 💻", "Tech 🛠️", "Companies 🌍"],
     experience: {
         years: 4,
-        description: "Desarrollador Full Stack especializado en arquitectura Frontend y desarrollo de soluciones SaaS."
+        description: "Software Developer Full Stack, desarrollo de plataformas SaaS y agentes de IA a medida"
     },
     technologies: {
         frontEnd: {
