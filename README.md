@@ -7,10 +7,10 @@
 
 ```js
 const FacuGuardia = {    
-    askMeAbout: ["App Dev 📱", "Web Dev 💻", "Tech 🛠️", "Companies 🌍", "AI Workflows 🤖"],
+    askMeAbout: ["App 📱", "Web 💻", "Companies 🌍", "AI Workflows 🤖"],
     experience: {
         years: 4,
-        description: "Software Engineer | Frontend-focused Full Stack Developer | SaaS Builder | AI & Automation Enthusiast | Context Engineered for High Productivity | 100% Remote"
+        description: "Software Engineer | Full Stack Developer (Frontend-focused) | SaaS & n8n Automations Specialist | Context Engineered with AI for High Productivity"
     },
     technologies: {
         frontEnd: {
@@ -18,11 +18,11 @@ const FacuGuardia = {
         },
         backEnd: {
             stack: ["Node.js", "Express", "Nest.js"],
-            database: ["PostgreSQL", "MongoDB", "Neon (Postgres Cloud)"],
+            database: ["PostgreSQL", "Neon (Postgres Cloud)"],
         },
         designer: {
             design: ["Figma"],
-            styling: ["Tailwind CSS", "Shadcn UI", "Gluestack UI"],
+            styling: ["Tailwind CSS", "Shadcn UI"],
         },
         cms: {
             platforms: ["Strapi", "WordPress"],
@@ -34,12 +34,7 @@ const FacuGuardia = {
             tools: ["n8n", "Zapier", "Make"],
         },
         ai: {
-            tools: ["ChatGPT", "Claude", "OpenAI API", "Cursor AI", "Trae", "Manus", "LangChain"],
-        },
-        devTools: {
-            editors: ["VS Code", "Cursor AI", "Trae"],
-            deployment: ["Vercel", "Railway", "Netlify"],
-            versionControl: ["Git", "GitHub"],
+            tools: ["ChatGPT", "Claude", "OpenAI API", "Cursor AI", "Manus"],
         },
     },
     favorites: [
