@@ -10,15 +10,15 @@ const FacuGuardia = {
     askMeAbout: ["App 📱", "Web 💻", "AI Agents 🤖", "Agent-Friendly SaaS 🚀", "Reliable AI Layers 🛡️"],
     experience: {
         years: 4,
-        description: "Full Stack Developer (Frontend-focused) | AI Agents & n8n Automations | Building Reliable, Governed AI Layers | Agent-Friendly SaaS | 100% Remote"
+        description: "Full Stack Developer (Frontend-focused) | AI Agents & n8n Automations | Building Reliable AI Layers with Control & Traceability | Agent-Ready SaaS | 100% Remote"
     },
     technologies: {
         frontEnd: {
             code: ["TypeScript", "React.js", "Next.js", "Framer Motion"],
         },
         backEnd: {
-            stack: ["Node.js", "Express", "Nest.js"],
-            database: ["PostgreSQL", "Neon (Postgres Cloud)", "Supabase"],
+            stack: ["Node.js", "Express", "Hono", "Nest.js"],
+            database: ["PostgreSQL", "Neon (Postgres Cloud)", "MySQL"],
         },
         designer: {
             design: ["Figma"],
