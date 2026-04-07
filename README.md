@@ -10,7 +10,7 @@ const FacuGuardia = {
     askMeAbout: ["App 📱", "Web 💻", "AI Agents 🤖", "Agent-Friendly SaaS 🚀", "Reliable AI Layers 🛡️"],
     experience: {
         years: 4,
-        description: "Full Stack Developer (Frontend-focused) | AI Agents & n8n Automations | Building Reliable AI Layers with Control & Traceability | Agent-Ready SaaS | 100% Remote"
+        description: "Full Stack Developer focused on AI Agents, Automation, and Secure AI Governance | Building Reliable, Traceable, and Agent-Ready SaaS Solutions | 100% Remote"
     },
     technologies: {
         frontEnd: {
@@ -34,7 +34,7 @@ const FacuGuardia = {
             tools: ["n8n", "Zapier", "Make"],
         },
         ai: {
-            tools: ["Claude Code", "OpenAI API", "ChatGPT", "Cursor AI", "Manus AI", "RAG Systems"],
+            tools: ["Claude Code", "OpenAI API", "ChatGPT", "Manus AI", "RAG Systems"],
         },
     },
     favorites: [
