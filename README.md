@@ -6,47 +6,49 @@
 
 
 ```js
-const FacuGuardia = {    
-    askMeAbout: ["App 📱", "Web 💻", "AI Agents 🤖", "Agent-Friendly SaaS 🚀", "Reliable AI Layers 🛡️"],
-    experience: {
-        years: 4,
-        description: "Full Stack Developer focused on AI Agents, Automation, and Secure AI Governance | Building Reliable, Traceable, and Agent-Ready SaaS Solutions | 100% Remote"
-    },
-    technologies: {
-        frontEnd: {
-            code: ["TypeScript", "React.js", "Next.js", "Framer Motion"],
-        },
-        backEnd: {
-            stack: ["Node.js", "Express", "Hono", "Nest.js"],
-            database: ["PostgreSQL", "Neon (Postgres Cloud)", "MySQL"],
-        },
-        designer: {
-            design: ["Figma"],
-            styling: ["Tailwind CSS", "Shadcn UI"],
-        },
-        cms: {
-            platforms: ["Strapi", "Contentful"],
-        },
-        baas: {
-            services: ["Firebase", "Supabase"],
-        },
-        automation: {
-            tools: ["n8n", "Zapier", "Make"],
-        },
-        ai: {
-            tools: ["Claude Code", "OpenAI API", "ChatGPT", "Manus AI", "RAG Systems"],
-        },
-    },
-    favorites: [
-        "Next.js", 
-        "Tailwind CSS", 
-        "Shadcn UI", 
-        "Supabase", 
-        "Vercel", 
-        "n8n", 
-        "Claude Code",
-        "Agentic Workflows"
-    ],
+const FacuGuardia = {
+  role:    "Co-Founder & AI Engineer",
+  company: "Sazonia — AI-native SaaS for restaurants 🍽️",
+  status:  "Pre-Seed · Building in public · Remote from Spain",
+
+  mission: "Design AI systems that are useful, traceable and governable. If it doesn't generate real, measurable impact — it's not well integrated.",
+
+  currentFocus: [
+    "🚀 Sazonia — modular SaaS + AI Assistant for restaurants (co-founder)",
+    "🏥 AI Engineering @Grupo Campbell — healthcare automation (Colombia)",
+    "📦 create-spect — open-source AI coding agent ecosystem (npm)",
+  ],
+
+  askMeAbout: [
+    "AI-native SaaS architecture 🏗️",
+    "LLM orchestration & context engineering 🧠",
+    "Intelligent automation with n8n 🔄",
+    "AI governance & responsible AI layers 🛡️",
+    "Gov-tech scraping & healthcare tech 🏥",
+  ],
+
+  stack: {
+    language:  ["TypeScript"],
+    frontend:  ["Next.js", "React", "Tailwind CSS", "Shadcn UI"],
+    backend:   ["Node.js", "Hono"],
+    database:  ["PostgreSQL", "Supabase", "Firebase"],
+    ai:        ["Claude API", "OpenAI API", "RAG", "LLM Orchestration"],
+    agents:    ["Claude Code", "Context Engineering", "Agentic Workflows"],
+    infra:     ["Playwright", "RabbitMQ", "Docker", "Vercel"],
+    automation:["n8n"],
+  },
+
+  principles: [
+    "AI as a core capability, not a decorative feature",
+    "Traceable systems: jobs, artifacts, providers, fallbacks",
+    "Context Engineering over raw prompt hacking",
+    "Human-in-the-loop in the grey zone",
+    "Production-first mindset, not demo-driven development",
+  ],
+
+  openSource: {
+    "create-spect": "npx create-spect@latest — AI coding agent ecosystem for any project",
+  },
 };
 ```
 
