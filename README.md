@@ -7,7 +7,7 @@
 
 ```js
 const FacuGuardia = {
-  role:    "Co-Founder & AI Engineer",
+  role:    "Full Stack & AI Engineer",
   company: "Sazonia — AI-native SaaS for restaurants 🍽️",
   status:  "Pre-Seed · Building in public · Remote from Spain",
 
