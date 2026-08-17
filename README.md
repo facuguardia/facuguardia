@@ -2,7 +2,7 @@
   <img src="https://i.postimg.cc/kg4zvhVT/banners.png" alt="Facundo Guardia — AI Engineer and Full Stack Developer" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Facundo Guardia 👋</h1>
+<h1 align="center">Hi, I'm Facu Guardia 👋</h1>
 
 <p align="center">
   <strong>AI Engineer & Full Stack Developer</strong><br />
